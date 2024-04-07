@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#define LOG_TAG "android.hardware.biometrics.fingerprint@2.1-service.xiaomi_mido"
+#define LOG_TAG "android.hardware.biometrics.fingerprint@2.1-service.lenovo_PB6505M"
 
 #include <binder/ProcessState.h>
 
